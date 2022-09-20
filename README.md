@@ -54,10 +54,12 @@ This screen diplays all the information about different blood banks located in t
 5. *Become a donor*
 
 This screen diplays a form to input information to become a blood donor. 
+
+![image](https://user-images.githubusercontent.com/64039031/191198136-5f22504b-fab0-4a45-b00a-7d04e324cee0.png)
+
 If you are already a donor so it shows that you are already a donor and your donor information will be updated.
 
 ![image](https://user-images.githubusercontent.com/64039031/191198046-e24df60b-24a0-4565-ac18-588bb30f7592.png)
-![image](https://user-images.githubusercontent.com/64039031/191198136-5f22504b-fab0-4a45-b00a-7d04e324cee0.png)
 
 
 6. *Search donor*
